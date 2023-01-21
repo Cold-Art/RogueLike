@@ -33,6 +33,7 @@ protected:
 
 	void MoveForward(float value);
 
+
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
